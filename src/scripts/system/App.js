@@ -3,7 +3,6 @@ import { gsap } from "gsap";
 import { PixiPlugin } from "gsap/PixiPlugin";
 import { Loader } from "./Loader";
 import * as sound from "pixi-sound";
-import { Howl } from "howler";
 
 class Application {
     run(config) {
